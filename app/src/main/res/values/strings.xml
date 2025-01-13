@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TugasPertemuan13</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movie_poster_desc">Movie Poster</string>
+    <string name="favorite_icon_desc">Favorite Icon</string>
+
+</resources>
